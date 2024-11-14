@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.home-bg {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+}
+
+.home-head {
+    color: #fff;
+    font-size: 40px;
+    font-family: Roboto;
+}
+
+.span {
+    color: #4b6cc1;
+}
+
+.home-par {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.button-cm {
+    background-color: #4b6cc1;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#sectionAboutme {
+    background-color: #323f4b;
+}
+
+.ab-image {
+    height: 290px;
+    width: 180px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.ab-head-1 {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.ab-head-2 {
+    color: #fff;
+}
+
+.ab-par-1 {
+    color: #9aa5b1;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#sectionSkills {
+    background-color: #1f2933;
+}
+
+.con {
+    background-color: #323f4b;
+    height: 100px;
+    width: 130px;
+    border-radius: 16px;
+
+}
+
+.skills-image {
+    height: 40px;
+}
+
+.skills-title {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#sectionProject {
+    background-color: #3e4c59;
+}
+
+.project-head {
+    color: #cced00;
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+.project-head-title {
+    color: #fff;
+    font-size: 35px;
+}
+
+.card {
+    background-color: #323f4b;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.project-card-title {
+    color: #9aa5b1;
+}
+
+.project-card-head {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.project-card-description {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.card-link {
+    color: #cced00;
+}
+
+.icon {
+    color: #cced00;
+}
+
+#sectionServices {
+    background-color: #52606d;
+}
+
+.service-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.service-title {
+    color: #cced00;
+    font-size: 25px;
+    margin-top: 40px;
+    font-family: Roboto;
+}
+
+.service-head-title {
+    color: #fff;
+    font-family: Roboto;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.service-card-image {
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.service-card-head {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.service-card-description {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.work-done {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    height: 40vh;
+}
+
+.wd-horizontal {
+    border: 1px solid #fff;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#sectionfooter {
+    background-color: #0d2436;
+}
+
+.footer-image {
+    border-radius: 60px;
+    height: 160px;
+}
+
+.footer-head {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-par {
+    color: #9aa5b1;
+}
+
+.copyright {
+    background-color: #001c32;
+    color: #9aa5b1;
+}
+
+.footer-icons {
+    color: #5a7184;
+}
+
+.section-testimonal {
+    background-color: #1f2933;
+}
+
+.section-head-1 {
+    color: #cced00;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.section-head-2 {
+    color: #fff;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.section-carousel {
+    background-color: #323f4b;
+}
+
+.Testimonials-image {
+    border-radius: 60px;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
+.Testimonials-description {
+    color: #9aa5b1;
+    font-size: 20px;
+    margin: 30px;
+    margin-top: 0px;
+    font-family: Roboto;
+}
+
+.Testimonials-author {
+    color: #fff;
+    font-size: 25px;
+    margin: 30px;
+    margin-top: 10px;
+    font-family: Roboto;
+}
+
+.follow-us {
+    background-color: #000;
+}
+
+.follow-icon {
+    margin: 20px;
+    font-size: 30px;
+}
+
+#sectionfooter {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.footer-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 60px;
+}
+
+.footer-head {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.footer-icons {
+    color: #5a7184;
+}
+
+.footer-par {
+    color: #9aa5b1;
+}
+
+.copyright {
+    color: #9aa5b1;
+    background-color: #001c32;
+}
+
+.follow-us {
+    background-color: #000;
+}
+
+.follow-icon {
+    margin: 20px;
+    font-size: 30px;
+}
